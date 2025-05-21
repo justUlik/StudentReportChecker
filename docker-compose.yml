@@ -1,0 +1,47 @@
+services:
+  apigateway:
+    build: ./ApiGateway
+    ports:
+      - "8080:80"
+    depends_on:
+      - fileservice
+      - analysisservice
+    environment:
+      Services__FileStoring: http://fileservice:80
+      Services__Analysis: http://analysisservice:80
+
+  fileservice:
+    build: ./FileStoringService
+    ports:
+      - "5002:80"
+    depends_on:
+      - postgres
+    volumes:
+      - ./FileStoringService/Storage:/app/Storage
+    environment:
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=filestore;Username=postgres;Password=postgres
+
+  analysisservice:
+    build: ./FileAnalysisService
+    ports:
+      - "5003:80"
+    depends_on:
+      - postgres
+      - fileservice
+    environment:
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=analysisdb;Username=postgres;Password=postgres
+      Services__FileStoring: http://fileservice:80
+
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: filestore
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

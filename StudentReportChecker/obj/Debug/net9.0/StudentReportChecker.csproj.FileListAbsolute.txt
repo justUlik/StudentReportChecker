@@ -1,0 +1,14 @@
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/bin/Debug/net9.0/StudentReportChecker
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/bin/Debug/net9.0/StudentReportChecker.deps.json
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/bin/Debug/net9.0/StudentReportChecker.runtimeconfig.json
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/bin/Debug/net9.0/StudentReportChecker.dll
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/bin/Debug/net9.0/StudentReportChecker.pdb
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/StudentReportChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/StudentReportChecker.AssemblyInfoInputs.cache
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/StudentReportChecker.AssemblyInfo.cs
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/StudentReportChecker.csproj.CoreCompileInputs.cache
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/StudentReportChecker.dll
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/refint/StudentReportChecker.dll
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/StudentReportChecker.pdb
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/StudentReportChecker.genruntimeconfig.cache
+/Users/ulyanaeskova/RiderProjects/StudentReportChecker/StudentReportChecker/obj/Debug/net9.0/ref/StudentReportChecker.dll

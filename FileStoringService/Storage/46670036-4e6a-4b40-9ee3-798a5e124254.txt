@@ -1,0 +1,155 @@
+Reader 1: Element[0] = 1
+Reader 2: Element[4] = 4
+Reader 3: Element[0] = 1
+Reader 4: Element[1] = 1
+Reader 5: Element[4] = 4
+Writer 4: Element[6], Old value = 8, New value = 7, Has the database been re-sorted: no
+Writer 2: Element[6], Old value = 7, New value = 4, Has the database been re-sorted: yes
+Writer 1: Element[7], Old value = 8, New value = 5, Has the database been re-sorted: yes
+Writer 3: Element[7], Old value = 7, New value = 1, Has the database been re-sorted: yes
+Writer 0: Element[8], Old value = 8, New value = 6, Has the database been re-sorted: no
+Writer 4: Element[6], Old value = 4, New value = 6, Has the database been re-sorted: yes
+Writer 3: Element[7], Old value = 6, New value = 6, Has the database been re-sorted: no
+Writer 2: Element[1], Old value = 1, New value = 9, Has the database been re-sorted: yes
+Writer 1: Element[7], Old value = 6, New value = 8, Has the database been re-sorted: no
+Writer 0: Element[4], Old value = 4, New value = 10, Has the database been re-sorted: yes
+Reader 2: Element[8] = 10
+Reader 4: Element[3] = 3
+Reader 1: Element[6] = 8
+Reader 3: Element[5] = 6
+Reader 5: Element[1] = 1
+Writer 3: Element[7], Old value = 9, New value = 2, Has the database been re-sorted: yes
+Writer 1: Element[9], Old value = 10, New value = 3, Has the database been re-sorted: yes
+Writer 4: Element[5], Old value = 3, New value = 1, Has the database been re-sorted: yes
+Writer 2: Element[4], Old value = 3, New value = 1, Has the database been re-sorted: yes
+Writer 0: Element[8], Old value = 8, New value = 2, Has the database been re-sorted: yes
+Writer 1: Element[7], Old value = 5, New value = 4, Has the database been re-sorted: no
+Writer 3: Element[8], Old value = 6, New value = 8, Has the database been re-sorted: no
+Writer 4: Element[9], Old value = 10, New value = 2, Has the database been re-sorted: yes
+Writer 0: Element[4], Old value = 2, New value = 5, Has the database been re-sorted: yes
+Writer 2: Element[7], Old value = 4, New value = 3, Has the database been re-sorted: no
+Reader 4: Element[2] = 1
+Reader 2: Element[2] = 1
+Reader 3: Element[7] = 3
+Reader 5: Element[7] = 3
+Reader 1: Element[5] = 2
+Writer 1: Element[3], Old value = 1, New value = 0, Has the database been re-sorted: yes
+Writer 3: Element[0], Old value = 0, New value = 10, Has the database been re-sorted: yes
+Writer 4: Element[5], Old value = 3, New value = 6, Has the database been re-sorted: yes
+Writer 0: Element[3], Old value = 2, New value = 4, Has the database been re-sorted: yes
+Writer 2: Element[2], Old value = 1, New value = 1, Has the database been re-sorted: no
+Writer 1: Element[4], Old value = 3, New value = 5, Has the database been re-sorted: yes
+Writer 3: Element[2], Old value = 1, New value = 8, Has the database been re-sorted: yes
+Writer 4: Element[3], Old value = 4, New value = 2, Has the database been re-sorted: no
+Writer 0: Element[2], Old value = 2, New value = 5, Has the database been re-sorted: yes
+Writer 2: Element[6], Old value = 6, New value = 3, Has the database been re-sorted: yes
+Reader 4: Element[6] = 5
+Reader 2: Element[9] = 10
+Reader 5: Element[7] = 8
+Reader 1: Element[3] = 3
+Reader 3: Element[3] = 3
+Writer 1: Element[3], Old value = 3, New value = 5, Has the database been re-sorted: no
+Writer 3: Element[0], Old value = 1, New value = 7, Has the database been re-sorted: yes
+Writer 4: Element[9], Old value = 10, New value = 4, Has the database been re-sorted: yes
+Writer 0: Element[9], Old value = 8, New value = 7, Has the database been re-sorted: yes
+Writer 2: Element[3], Old value = 5, New value = 6, Has the database been re-sorted: yes
+Writer 1: Element[2], Old value = 4, New value = 4, Has the database been re-sorted: no
+Writer 3: Element[3], Old value = 5, New value = 7, Has the database been re-sorted: yes
+Writer 4: Element[9], Old value = 8, New value = 10, Has the database been re-sorted: no
+Writer 2: Element[2], Old value = 4, New value = 3, Has the database been re-sorted: no
+Writer 0: Element[1], Old value = 2, New value = 1, Has the database been re-sorted: no
+Reader 2: Element[4] = 5
+Reader 4: Element[9] = 10
+Reader 5: Element[4] = 5
+Reader 1: Element[7] = 7
+Reader 3: Element[4] = 5
+Writer 4: Element[9], Old value = 10, New value = 7, Has the database been re-sorted: no
+Writer 1: Element[2], Old value = 3, New value = 3, Has the database been re-sorted: no
+Writer 3: Element[6], Old value = 7, New value = 7, Has the database been re-sorted: no
+Writer 2: Element[2], Old value = 3, New value = 8, Has the database been re-sorted: yes
+Writer 0: Element[6], Old value = 7, New value = 0, Has the database been re-sorted: yes
+Writer 1: Element[3], Old value = 5, New value = 6, Has the database been re-sorted: yes
+Writer 4: Element[2], Old value = 1, New value = 5, Has the database been re-sorted: no
+Writer 3: Element[1], Old value = 1, New value = 9, Has the database been re-sorted: yes
+Writer 2: Element[9], Old value = 9, New value = 3, Has the database been re-sorted: yes
+Writer 0: Element[2], Old value = 5, New value = 6, Has the database been re-sorted: yes
+Reader 2: Element[8] = 7
+Reader 4: Element[4] = 6
+Reader 5: Element[8] = 7
+Reader 1: Element[9] = 8
+Reader 3: Element[7] = 7
+Writer 1: Element[9], Old value = 8, New value = 10, Has the database been re-sorted: no
+Writer 3: Element[7], Old value = 7, New value = 2, Has the database been re-sorted: yes
+Writer 4: Element[2], Old value = 3, New value = 7, Has the database been re-sorted: yes
+Writer 0: Element[6], Old value = 7, New value = 0, Has the database been re-sorted: yes
+Writer 2: Element[6], Old value = 6, New value = 10, Has the database been re-sorted: yes
+Writer 1: Element[2], Old value = 2, New value = 0, Has the database been re-sorted: no
+Writer 3: Element[5], Old value = 6, New value = 3, Has the database been re-sorted: yes
+Writer 4: Element[6], Old value = 7, New value = 10, Has the database been re-sorted: yes
+Writer 0: Element[1], Old value = 0, New value = 7, Has the database been re-sorted: yes
+Writer 2: Element[5], Old value = 7, New value = 7, Has the database been re-sorted: no
+Reader 4: Element[3] = 5
+Reader 2: Element[1] = 0
+Reader 5: Element[9] = 10
+Reader 1: Element[5] = 7
+Reader 3: Element[0] = 0
+Writer 3: Element[5], Old value = 7, New value = 0, Has the database been re-sorted: yes
+Writer 1: Element[9], Old value = 10, New value = 8, Has the database been re-sorted: yes
+Writer 4: Element[7], Old value = 8, New value = 1, Has the database been re-sorted: yes
+Writer 0: Element[5], Old value = 5, New value = 3, Has the database been re-sorted: no
+Writer 2: Element[4], Old value = 3, New value = 5, Has the database been re-sorted: yes
+Writer 3: Element[5], Old value = 5, New value = 2, Has the database been re-sorted: yes
+Writer 1: Element[9], Old value = 10, New value = 8, Has the database been re-sorted: yes
+Writer 4: Element[8], Old value = 8, New value = 4, Has the database been re-sorted: yes
+Writer 0: Element[4], Old value = 2, New value = 8, Has the database been re-sorted: yes
+Writer 2: Element[7], Old value = 7, New value = 3, Has the database been re-sorted: yes
+Reader 2: Element[3] = 1
+Reader 4: Element[3] = 1
+Reader 3: Element[2] = 0
+Reader 5: Element[7] = 6
+Reader 1: Element[1] = 0
+Writer 3: Element[8], Old value = 8, New value = 2, Has the database been re-sorted: yes
+Writer 1: Element[3], Old value = 1, New value = 6, Has the database been re-sorted: yes
+Writer 4: Element[2], Old value = 0, New value = 7, Has the database been re-sorted: yes
+Writer 0: Element[8], Old value = 7, New value = 0, Has the database been re-sorted: yes
+Writer 2: Element[6], Old value = 4, New value = 8, Has the database been re-sorted: yes
+Writer 3: Element[0], Old value = 0, New value = 3, Has the database been re-sorted: yes
+Writer 1: Element[1], Old value = 0, New value = 0, Has the database been re-sorted: no
+Writer 4: Element[7], Old value = 6, New value = 8, Has the database been re-sorted: no
+Writer 0: Element[5], Old value = 3, New value = 6, Has the database been re-sorted: no
+Writer 2: Element[3], Old value = 3, New value = 7, Has the database been re-sorted: yes
+Reader 2: Element[4] = 6
+Reader 4: Element[5] = 6
+Reader 3: Element[9] = 10
+Reader 5: Element[9] = 10
+Reader 1: Element[7] = 8
+Writer 3: Element[6], Old value = 7, New value = 2, Has the database been re-sorted: yes
+Writer 1: Element[1], Old value = 0, New value = 2, Has the database been re-sorted: no
+Writer 4: Element[4], Old value = 3, New value = 4, Has the database been re-sorted: no
+Writer 0: Element[1], Old value = 2, New value = 6, Has the database been re-sorted: yes
+Writer 2: Element[5], Old value = 6, New value = 7, Has the database been re-sorted: yes
+Writer 1: Element[2], Old value = 2, New value = 0, Has the database been re-sorted: yes
+Writer 3: Element[4], Old value = 6, New value = 2, Has the database been re-sorted: yes
+Writer 4: Element[4], Old value = 4, New value = 8, Has the database been re-sorted: yes
+Writer 0: Element[6], Old value = 8, New value = 3, Has the database been re-sorted: yes
+Writer 2: Element[3], Old value = 2, New value = 3, Has the database been re-sorted: no
+Reader 2: Element[2] = 2
+Reader 4: Element[5] = 6
+Reader 3: Element[1] = 0
+Reader 1: Element[2] = 2
+Reader 5: Element[3] = 3
+Writer 3: Element[7], Old value = 8, New value = 2, Has the database been re-sorted: yes
+Writer 1: Element[9], Old value = 10, New value = 2, Has the database been re-sorted: yes
+Writer 4: Element[3], Old value = 2, New value = 10, Has the database been re-sorted: yes
+Writer 0: Element[1], Old value = 0, New value = 0, Has the database been re-sorted: no
+Writer 2: Element[6], Old value = 6, New value = 9, Has the database been re-sorted: yes
+Writer 3: Element[3], Old value = 2, New value = 4, Has the database been re-sorted: yes
+Writer 1: Element[2], Old value = 2, New value = 0, Has the database been re-sorted: no
+Writer 4: Element[5], Old value = 4, New value = 10, Has the database been re-sorted: yes
+Writer 0: Element[2], Old value = 0, New value = 8, Has the database been re-sorted: yes
+Writer 2: Element[2], Old value = 3, New value = 1, Has the database been re-sorted: no
+Reader 2: Element[1] = 0
+Reader 4: Element[0] = 0
+Reader 3: Element[2] = 1
+Reader 1: Element[1] = 0
+Reader 5: Element[2] = 1
